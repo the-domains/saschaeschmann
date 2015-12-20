@@ -1,7 +1,7 @@
 name: Saschaeschmann
 favicon: null
-layout_spectrum: 0.5207966649904847
-typography_spectrum: 0.29414586653001606
+layout_spectrum: 0
+typography_spectrum: 0.2427
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.032621851889416575
-  lightness: 0.9285944430157542
-  saturation: 0.1134587056003511
-  rhythmicContrast: 0.31426548468880355
+    - '#fef9f6'
+    - '#101626'
+    - '#819280'
+    - '#25383f'
+    - '#62776e'
+  brandStrength: 0.5
+  lightness: 0.4375
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
